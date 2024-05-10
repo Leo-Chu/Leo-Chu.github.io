@@ -1,2 +1,1 @@
-# leichu.github.io
-Leoski Chu's personal website
+# This project contains the source files of my personal website.

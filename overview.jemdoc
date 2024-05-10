@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{overview.html}
+= Overview
+
+My research interests include stochastic network control and optimization, especially in the integration of computing, caching, and communication (3C) technologies into next-generation network design. I also built expertise on multi-agent (cooperative) network localization, navigation and control from my previous research experiences.
+
+# - Cloud, edge, and fog computing \n
+
+# - Network cooperation
+
+== Next-Gen Computing Network Control
+
+- Caching Networks
+
+- Processing Networks
+
+- Joint Computing, Caching, and Communication (3C)
+
+== Next-Gen Computing Service Control
+
+- Delay Sensitive Services
+
+- Mixed Cast Services
+
+- Data Intensive Services
+
+
